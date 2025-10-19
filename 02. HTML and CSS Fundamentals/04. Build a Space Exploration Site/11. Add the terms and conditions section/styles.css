@@ -11,9 +11,14 @@ PS: your layout will likely be disturbed by the <body>
 tag's default margin.
 */
 
+#hero {
+    background-image: url("images/galaxy.webp");
+    background-size: cover;
+    padding: 40px 20px;
+}
+
 body {
     color: #82a5ca;
-    background-image: url("images/galaxy.webp");
     background-size: cover;
     text-align: center;
     font-family: 'Orbitron', sans-serif;

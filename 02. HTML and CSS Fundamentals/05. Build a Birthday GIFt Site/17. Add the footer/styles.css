@@ -82,6 +82,17 @@ h1, h2, h3, h4, p {
     background-image: url("images/cheers.gif");
 }
 
+footer {
+    margin: 0 auto;
+    width: 400px;
+    font-style: italic;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
 /* 
 Add the footer paragraph according to the design. 
 Configure the anchor tag to open the link in a new tab.

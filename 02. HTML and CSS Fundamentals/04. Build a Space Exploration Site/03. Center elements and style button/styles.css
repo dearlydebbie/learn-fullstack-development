@@ -6,8 +6,24 @@ Challenge:
 */
 
 body {
+    display: block;
+    text-align: center;
     color: white;
     background-image: url("images/universe.jpg");
     background-size: cover;
 }
 
+.button {
+    display: inline-block;
+    padding: 12px 24px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #007BFF;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #0056b3;
+}

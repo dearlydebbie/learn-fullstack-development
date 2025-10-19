@@ -13,6 +13,9 @@
     align-items:
     start, center, end
     */
+    display: flex;
+    justify-content: space-around;
+    align-items: start;
 }
 
 .item {

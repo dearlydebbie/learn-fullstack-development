@@ -8,3 +8,14 @@ Don't know how to make an image round? Google it!
 Also, consider how you should select the image 
 (class vs id vs element selector).
 */
+
+body {
+    font-family: 'Happy Monkey', cursive;
+    text-align: center;
+}
+
+#nick {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
