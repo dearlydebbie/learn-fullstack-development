@@ -15,9 +15,11 @@ we can do this with margins?
 .logo-img {
     display: block;
     width: 300px;
+    margin-bottom: 20px;
 }
 
 .search-input {
     display: block;
     width: 400px;
+    margin-top: 20px;
 }
