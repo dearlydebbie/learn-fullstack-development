@@ -14,7 +14,9 @@ body {
     display: flex;
     justify-content: space-around;
     text-align: center;
-    
+    color: #2b2839;
+    background: #ddebf8;
+    border-bottom: 5px solid #d8cefe;
     /* 
     Challenge:
     Add colors to the card according to the design.

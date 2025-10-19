@@ -19,16 +19,26 @@ body {
     display: flex;
     justify-content: space-around;
     text-align: center;
-    background: #ddebf8;
-    color: #2b2839;
-    border-bottom: 6px solid #d8cefe;
-        
+    background: #F5E4D7;
+    color: #73877B;
+    border-bottom: 6px solid #BDBBB6;
+    border-radius: 20px;
+
     /*
     Challenge:
     Find a color palette you like on Coolors.co
     and use it in your business card.
      */
+
+     
 }
+
+.card:hover {
+    box-shadow: 10px 10px 5px grey;
+}
+        
+    
+
 
 .border-blue {
     border: 1px dotted blue;

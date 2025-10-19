@@ -27,3 +27,6 @@ body {
     border: 1px dotted blue;
 }
 
+.center-text {
+    text-align: center;
+}
