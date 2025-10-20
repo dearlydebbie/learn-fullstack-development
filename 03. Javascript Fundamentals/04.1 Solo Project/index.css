@@ -1,0 +1,61 @@
+/* change the background color of the page to navy blue, the heading should be white, but the span should be green. the paragraph should be light gray. the button should have a green background with white text. when hovering over the button, the background should change to a darker green. add some padding and margin to make it look nice. Make the horizontal line a lighter gray. Next, color the password fields with a light gray background and some padding, making the text green. */
+
+/* Place the whole content in the middle, but align it to the left. add margin and padding, and adjust the width. Also, make the passwords on the same line */
+
+body {
+    background-color: rgb(18, 18, 53);
+    color: rgb(25, 23, 23);
+    font-family: Arial, sans-serif;
+    padding: 50px;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    color: rgb(220, 218, 218);
+}
+
+span {
+    color: rgb(67, 143, 67);
+}
+
+p {
+    color: rgb(155, 153, 153);
+}
+
+button {
+    background-color: rgb(67, 143, 67);
+    color: rgb(230, 228, 228);
+    padding: 10px 15px;
+    margin: 20px 0;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: darkgreen;
+}
+
+hr {
+    border: 0.5px solid rgb(81, 81, 81);
+}
+
+.password-container {
+    margin-top: 20px;
+    display: flex;
+    gap: 10px;
+}
+
+.password-container input {
+    background-color: rgb(29, 29, 71);
+    color: rgb(67, 143, 67);
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    width: 100%;
+    text-align: center;
+}
