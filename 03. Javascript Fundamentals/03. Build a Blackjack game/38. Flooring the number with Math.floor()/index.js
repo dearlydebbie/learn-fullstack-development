@@ -9,6 +9,6 @@ console.log(flooredNumber)
 
 What does Math.floor() do to positive numbers?
 
-Your answer: 
+Your answer: It "rounds down" to the nearest whole number.
 
 */

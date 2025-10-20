@@ -1,4 +1,4 @@
-let randomNumber = Math.random() * 6
+let randomNumber = Math.floor(Math.random() * 6)
 
 console.log(randomNumber)
 
@@ -6,6 +6,7 @@ console.log(randomNumber)
 
 Write down all the possible values randomNumber can hold now!
 
+numbers between 0 and 5 inclusive
  
 
 

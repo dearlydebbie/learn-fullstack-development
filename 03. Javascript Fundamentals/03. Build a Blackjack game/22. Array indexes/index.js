@@ -11,5 +11,13 @@ let experience = ["CEO at Scrimba", "Frontend developer at Xeneta", "People coun
 
 // Make the following appear in the console:
 // Frontend developer at Xeneta
+console.log(experience[1])
+
+// Xeneta
+console.log(experience[1].split(" ")[3])
+
 // People counter for Norstat
+console.log(experience[2])
+
 // CEO at Scrimba
+console.log(experience[0])
