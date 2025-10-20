@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://127.0.0.1:5500/03.%20Javascript%20Fundamentals/01.%20Build%20a%20Passenger%20Counter%20App/03.%20Setting%20up%20our%20JavaScript%20file/index.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:5500/03.%20Javascript%20Fundamentals/01.%20Build%20a%20Passenger%20Counter%20App/03.%20Setting%20up%20our%20JavaScript%20file/index.html"
+        }
+    ]
+}
